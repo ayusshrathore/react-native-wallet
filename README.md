@@ -48,6 +48,17 @@ Start the expo server
 ```
 
 
+## Roadmap
+
+- [ ] Dark Mode Support 
+
+- [ ] Show more screens (Detailed Information, Graphs, etc.)
+
+- [ ] Add animations
+
+- [ ] Tabbed Navigation 
+
+
 ## Contributing
 
 Contributions are always welcome!
