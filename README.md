@@ -16,10 +16,10 @@
 
 ## Acknowledgements
 
--   [Expo](https://expo.dev/)
--   [Styled Components](https://styled-components.com/)
--   [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
--   [React Native BottomSheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+- [Expo](https://expo.dev/)
+- [Styled Components](https://styled-components.com/)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [React Native BottomSheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
 
 ## Run Locally
 
@@ -38,26 +38,24 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
+  yarn
 ```
 
-Start the expo server
+Start the expo server. (You'll need a custom expo development client to run this app. See more at [Expo Development Build](https://docs.expo.dev/development/create-development-builds/))
 
 ```bash
-  npx expo start
+  npx expo start --dev-client
 ```
-
 
 ## Roadmap
 
-- [ ] Dark Mode Support 
+- [ ] Dark Mode Support
 
 - [ ] Show more screens (Detailed Information, Graphs, etc.)
 
 - [ ] Add animations
 
-- [ ] Tabbed Navigation 
-
+- [ ] Tabbed Navigation
 
 ## Contributing
 
